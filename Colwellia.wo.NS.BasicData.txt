@@ -1,0 +1,68 @@
+All-Colwellia-Strains-2.genome_id	genome.genome_name	genome.genome_length
+1888913.3	Colwellia mytili strain KCTC 52417	4511656
+326537.3	Colwellia polaris strain MCCC1C00015	4429136
+2161872.4	Colwellia sp. Arc7-D	4305442
+2058299.3	Colwellia sp. 12G3	5055586
+2497879.3	Colwellia sp. Arc7-635	4741350
+28229.11	Colwellia psychrerythraea strain Glo_19	6268334
+2011145.3	Colwellia sp. ESRF-bin12	3300412
+28228.20	Colwellia BRX10.3	3881276
+28228.27	Colwellia BRX8.3	4604445
+28228.30	Colwellia BRX8.7	4472161
+28228.32	Colwellia BRX8.9	4701650
+28228.18	Colwellia BRX10-1	4513248
+89402.3	Colwellia hornerae strain IC037	4424992
+2304625.3	Colwellia sp. OISW-25	3722219
+167879.5	Colwellia psychrerythraea 34H	5373180
+329993.3	Colwellia aestuarii strain KCTC 12480	4288731
+1820336.3	Colwellia sediminilitoris strain KCTC 52213	3849879
+89402.5	Colwellia hornerae strain ACAM 607	4424918
+56799.4	Colwellia sp. strain NORP29	4048040
+1816218.3	Colwellia sp. PAMC 20917	4683314
+329993.4	Colwellia aestuarii strain CGMCC1.6965	4292822
+641665.4	Colwellia chukchiensis strain CGMCC1.9127	4035170
+1816219.4	Colwellia sp. PAMC 21821 strain PAMC 21821	4884300
+1265503.3	Colwellia piezophila ATCC BAA-637	5478526
+641665.3	Colwellia chukchiensis strain CGMCC 1.9127	4023670
+1982103.3	Colwellia sp. A3T	4126867
+56799.9	Colwellia sp. strain UBA10809	4614668
+56799.10	Colwellia sp. strain UBA8680	2348646
+2305464.3	Colwellia sp. RSH04	4149027
+1911682.3	Colwellia sp. QM50 strain QM50	4722645
+89402.4	Colwellia hornerae strain IC036	4416726
+888425.3	Colwellia sp. 75C3	5407224
+56799.8	Colwellia sp. strain Glo_8	5117885
+2267621.3	Colwellia sp. Bin11-node4	3748312
+28228.28	Colwellia BRX8.5	4606843
+28228.23	Colwellia BRX10.6	4271028
+28228.24	Colwellia BRX10.7	4512510
+28228.26	Colwellia BRX8.2	4615528
+28228.33	Colwellia BRX10.4	4506293
+2058305.3	Colwellia sp. Bg11-28	5369244
+2011157.3	Colwellia sp. ESRF-bin71	2928543
+1917165.4	Colwellia sp. UCD-KL20 strain UCD-KL20	4529917
+1967665.3	Colwellia sp. NB097-1 strain NB097-1	4661274
+2508879.3	Colwellia sp. C1TZA3	4243268
+89401.3	Colwellia demingiae strain ACAM 459	5229547
+28229.3	Colwellia psychrerythraea GAB14E	5723506
+28228.31	Colwellia BRX8.8	4365309
+56799.6	Colwellia sp. strain bin20	2061101
+1720342.3	Colwellia sp. TT2012	4420600
+56799.5	Colwellia sp. strain NORP5	7960172
+1513592.3	Colwellia marinimaniae strain MTCD1	4387599
+58049.4	Colwellia sp. MT41	4337945
+28228.19	Colwellia BRX10.2	4517290
+28228.29	Colwellia BRX8.6	4602220
+28228.21	Colwellia BRX8.4	4449893
+28228.22	Colwellia BRX10.5	4511916
+28228.25	Colwellia BRX10.9	4512892
+1380381.3	Colwellia sp. 8_GOM-1096m	4125224
+2011151.3	Colwellia sp. ESRF-bin9	1881782
+2011152.3	Colwellia sp. ESRF-bin23	1281665
+28229.4	Colwellia psychrerythraea ND2E	5154850
+1856279.3	Colwellia sp. 39_35_sub15_T18 strain 39_35_sub15_T18	4011205
+56799.11	Colwellia sp. strain UBA8227	3507908
+1718921.3	Colwellia sp. MT2012	4355497
+28229.6	Colwellia psychrerythraea strain 38_32_sub10_T18	4614230
+56799.7	Colwellia sp. strain bin21	2432170
+2689569.3	Colwellia sp. 20A7	4580615
